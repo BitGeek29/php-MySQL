@@ -1,4 +1,4 @@
-# php-MySQL
+# php-MySQL login system
 
 Swift Mailer
 ------------
